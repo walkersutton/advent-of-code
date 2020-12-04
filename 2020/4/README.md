@@ -15,7 +15,6 @@
 * cid (Country ID)
 
 > Count the number of valid passports - those that have all required fields. Treat cid as optional. In your batch file, how many passports are valid?
-(The _required fields_ include all of the fields except for the `cid field`)
 
 ### Part 2
 
