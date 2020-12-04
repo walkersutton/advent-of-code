@@ -1,10 +1,10 @@
 # AOC 2020 - Day 4
 
-[link](https://adventofcode.com/2020/day/4)
+[instructions](https://adventofcode.com/2020/day/4)
 
-## Part 1
+### Part 1
 
-### Excpected Fields:
+#### Excpected Fields:
 * byr (Birth Year)
 * iyr (Issue Year)
 * eyr (Expiration Year)
@@ -17,9 +17,9 @@
 > Count the number of valid passports - those that have all required fields. Treat cid as optional. In your batch file, how many passports are valid?
 (The _required fields_ include all of the fields except for the `cid field`)
 
-## Part 2
+### Part 2
 
-### Valid Values
+#### Valid Values
 * byr (Birth Year) - four digits; at least 1920 and at most 2002.
 * iyr (Issue Year) - four digits; at least 2010 and at most 2020.
 * eyr (Expiration Year) - four digits; at least 2020 and at most 2030.
