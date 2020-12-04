@@ -4,6 +4,8 @@
 
 > You start on the open square (.) in the top-left corner and need to reach the bottom (below the bottom-most row on your map).
 >
+> These aren't the only trees, though; due to something you read about once involving arboreal genetics and biome stability, the same pattern repeats to the right many times:
+>
 > The locations you'd check in the above example are marked here with O where there was an open square and X where there was a tree:
 
 ```
