@@ -1,3 +1,5 @@
+VALID_FIELDS = ['byr:', 'iyr:', 'eyr:', 'hgt:', 'hcl:', 'ecl:', 'pid:']
+
 infile = open('data.txt', 'r')
 text_data = infile.readlines()
 vals = []
@@ -5,19 +7,17 @@ for element in text_data:
   vals.append((element.strip()))
 
 total = 0
-person = ''
+person, valid = '', True
 
 for line in vals:
   if line == '':
-    if   ('byr:' in person
-      and 'iyr:' in person
-      and 'eyr:' in person
-      and 'hgt:' in person
-      and 'hcl:' in person
-      and 'ecl:' in person
-      and 'pid:' in person):
+    for field in VALID_FIELDS:
+      if field not in person:
+        valid = False
+        break
+    if valid: 
       total += 1 
-    person = ''
+    person, valid = '', True
   else:
     person += line
 
