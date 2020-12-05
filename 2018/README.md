@@ -5,7 +5,7 @@
 
 ## Personal Stats
 ```
-      --------Part 1---------   --------Part 2--------
-Day       Time    Rank  Score       Time   Rank  Score
-	1       >24h  89253      0       >24h  69635      0
+      --------Part 1--------   --------Part 2--------
+Day       Time   Rank  Score       Time   Rank  Score
+  1       >24h  89253      0       >24h  69635      0
 ```
