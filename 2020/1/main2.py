@@ -8,5 +8,8 @@ numbers.sort()
 for ii in range(len(numbers) - 2):
   for jj in range(ii + 1, len(numbers) - 1):
     for kk in range(jj + 1, len(numbers)):
-      if numbers[ii] + numbers[jj] + numbers[kk] == 2020:
-        print(numbers[ii] * numbers[jj] * numbers[kk])
+      val = numbers[ii] + numbers[jj] + numbers[kk] 
+      if val == 2020:
+        print(val)
+      elif val > 2020:
+        break
