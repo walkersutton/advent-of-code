@@ -5,10 +5,10 @@ I just discovered this site a few days ago (today: 12/4/2020), so it'll take me 
 
 * 2020 10⭐
 * 2019 6⭐
-* 2018
+* 2018 2⭐
 * 2017
 * 2016
 * 2015    
-__Total stars: 16⭐__
+__Total stars: 18⭐__
 
 _Last updated: 12/05/2020_
