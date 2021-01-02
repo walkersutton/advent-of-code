@@ -7,6 +7,7 @@
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 16       >24h  31370      0       >24h  28386      0
  15   17:26:56  24307      0   17:32:50  22475      0
  14   01:08:08   5482      0   01:23:40   3497      0
  I didn't forget about day 10, I'm stuck on part 2, and haven't had time to compete it yet
