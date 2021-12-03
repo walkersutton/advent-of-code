@@ -48,5 +48,6 @@ for ii in range(len(binstemp[0])):
 	zl = []
 	if len(binstemp) == 1:
 		o2 = binstemp[0]
+		break
 
 print(int(o2, 2) * int(co2, 2))
