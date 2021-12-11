@@ -9,11 +9,7 @@ for line in lines:
 	octs.append([int(n) for n in line])
 
 def all_zeros(nums):
-	for ii in range(len(nums)):
-		for jj in range(len(nums[ii])):
-			if nums[ii][jj] != 0:
-				return False
-	return True	
+	return sum([sum(row) for row in nums]) == 0
 
 def increment_by_one(nums):
 	for ii in range(len(nums)):
