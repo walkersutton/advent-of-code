@@ -9,7 +9,7 @@ I just discovered this site a few days ago (today: 12/4/2020), so it'll take me 
 * 2018 4⭐
 * 2017
 * 2016
-* 2015    
-__Total stars: 59⭐
+* 2015 2⭐
+__Total stars: 61⭐
 
-_Last updated: 12/25/2021_
+_Last updated: 01/05/2022_
