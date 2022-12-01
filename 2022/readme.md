@@ -7,4 +7,5 @@
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+  1   00:04:42  2426      0   00:07:52  2759      0
 ```
