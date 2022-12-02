@@ -1,6 +1,6 @@
 # AOC 2022 - Day 1
 
-[instructions](https://adventofcode.com/2022/day/2)
+[instructions](https://adventofcode.com/2022/day/1)
 
 ### Part 1
 
