@@ -1,8 +1,8 @@
+import os
 import sys
 
+sys.path.append(os.path.pardir)
 from parse import input_as_string, input_as_lines, input_as_ints
-
-sys.path.append("..")
 
 rucksacks = input_as_lines('data.txt')
 tot = 0
