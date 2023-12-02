@@ -3,7 +3,7 @@ These are my answers to [Advent Of Code](https://adventofcode.com) problems.
 
 I just discovered this site a few days ago (today: 12/4/2020), so it'll take me some time to catch up on all of the previous years' problems, but the goal is to complete them all. If you'd like to be added to my personal leaderboard, send me a message on [Twitter](https://twitter.com/walkercsutton) or shoot me an email.
 
-* 2023 2⭐
+* 2023 4⭐
 * 2022 26⭐
 * 2021 19⭐
 * 2020 30⭐
@@ -13,6 +13,6 @@ I just discovered this site a few days ago (today: 12/4/2020), so it'll take me 
 * 2016
 * 2015 2⭐
 
-__Total stars: 85⭐__
+__Total stars: 87⭐__
 
-_Last updated: 11/30/2023_
+_Last updated: 12/1/2023_
