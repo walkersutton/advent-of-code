@@ -1,6 +1,6 @@
-# AOC 2024 - Day x
+# AOC 2024 - Day 1
 
-[instructions](https://adventofcode.com/2024/day/x)
+[instructions](https://adventofcode.com/2024/day/1)
 
 ### Part 1
 
