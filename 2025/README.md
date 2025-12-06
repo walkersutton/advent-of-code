@@ -7,5 +7,5 @@
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
-  1       >24h          -
+  1       >24h       >24h
 ```
