@@ -5,8 +5,8 @@
 
 ## Personal Stats
 ```
-      --------Part 1--------   --------Part 2--------
-Day       Time   Rank  Score       Time   Rank  Score
+Day   -Part 1-   -Part 2-
+  7   00:25:24   00:56:28
   2       >24h          -
   1       >24h       >24h
 ```
