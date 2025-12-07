@@ -10,9 +10,10 @@ string = input_as_string(file_name)
 def id_is_invalid(val):
     val = str(val)
     length = len(val)
-    if length % 2 == 0:
-        left, right = val[:length//2], val[length//2:]
-        return left == right
+    for ii in range(1, length // 2 + 1):
+        if length % ii == 0:
+            if val[:ii] * (length//ii) == val:
+                return True
     return False
 
 invalid_id_sum = 0
